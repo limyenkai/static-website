@@ -408,8 +408,17 @@ li {
     text-align: center;
 }
 
-.certificate{
-    flex-direction: row;
+.certificate-container{
+    justify-content: center;
+}
+
+.certificate {
+    display: flex;
+    justify-content: space-between;
+}
+
+.certificate p{
+    margin: 3px;
 }
 
 .domain-knowledge{
