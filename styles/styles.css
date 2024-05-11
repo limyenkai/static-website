@@ -415,6 +415,8 @@ li {
 .certificate {
     display: flex;
     justify-content: space-between;
+    font-size: 17px;
+    margin-inline: 10px;
 }
 
 .certificate p{
@@ -474,9 +476,3 @@ li {
     height: 50%;
 }
 
-.certificate {
-    display: flex;
-    justify-content: space-between;
-    font-size: 18px;
-    margin-inline: 5%;
-}
